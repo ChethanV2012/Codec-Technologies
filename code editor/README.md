@@ -38,10 +38,4 @@ The Collab-Editor uses WebSockets to establish a real-time connection between th
 
 
 
-This tutorial covers the setup, features, and usage of the Collab-Editor, and is a great resource for those who prefer a visual guide.
 
-## License
-
-[Insert license information here]
-
-Let me know if you'd like me to add or modify anything!
